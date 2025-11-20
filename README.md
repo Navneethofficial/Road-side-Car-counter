@@ -271,15 +271,6 @@ lsof -ti:5000 | xargs kill -9
 - Uploaded videos are stored temporarily in `uploads/`
 - Clear `uploads/` and `static/results/` periodically
 
-### 🧩 Future Improvements
-
-* 🚦 Add speed estimation for tracked vehicles
-* 🛰️ Integrate GPS for roadside monitoring
-* 📉 Store daily traffic logs in a database
-* 💻 Deploy using Streamlit or Flask for live dashboard visualization
-
----
-
 ## 📝 License
 
 This project uses:
@@ -311,6 +302,14 @@ For issues or questions:
 - **Ultralytics** for YOLOv8
 - **Alex Bewley** for SORT tracking algorithm
 - **Flask** for web framework
+
+---
+### 🧩 Future Improvements
+
+* 🚦 Add speed estimation for tracked vehicles
+* 🛰️ Integrate GPS for roadside monitoring
+* 📉 Store daily traffic logs in a database
+* 💻 Deploy using Streamlit or Flask for live dashboard visualization
 
 ---
 
