@@ -316,15 +316,6 @@ For issues or questions:
 
 Made with ❤️ for smart traffic monitoring
 
-**Happy Counting! 🚗💨**
 
-### 🧩 Future Improvements
-
-* 🚦 Add speed estimation for tracked vehicles
-* 🛰️ Integrate GPS for roadside monitoring
-* 📉 Store daily traffic logs in a database
-* 💻 Deploy using Streamlit or Flask for live dashboard visualization
-
----
 
 
