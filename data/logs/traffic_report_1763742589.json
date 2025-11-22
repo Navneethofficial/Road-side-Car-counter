@@ -1,0 +1,1099 @@
+{
+  "timestamp": "2025-11-21 21:59:49",
+  "total_vehicles": 70,
+  "speed_violations": 87,
+  "speed_limit": 120,
+  "location": {
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "location_name": "Bangalore Central",
+    "road_name": "MG Road",
+    "enabled": true
+  },
+  "vehicles": [
+    {
+      "id": 233,
+      "timestamp": "2025-11-21 21:58:40",
+      "speed": 133.0179060194503,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 237,
+      "timestamp": "2025-11-21 21:58:42",
+      "speed": 120.1838621187348,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 235,
+      "timestamp": "2025-11-21 21:58:43",
+      "speed": 131.7865528107102,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 247,
+      "timestamp": "2025-11-21 21:58:43",
+      "speed": 133.6007065435185,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 245,
+      "timestamp": "2025-11-21 21:58:43",
+      "speed": 129.42887587410553,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 249,
+      "timestamp": "2025-11-21 21:58:45",
+      "speed": 123.76112721285521,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 251,
+      "timestamp": "2025-11-21 21:58:47",
+      "speed": 147.7572122491024,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 258,
+      "timestamp": "2025-11-21 21:58:48",
+      "speed": 127.79570236778825,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 260,
+      "timestamp": "2025-11-21 21:58:50",
+      "speed": 103.25022516459612,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 265,
+      "timestamp": "2025-11-21 21:58:50",
+      "speed": 123.35180509449064,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 256,
+      "timestamp": "2025-11-21 21:58:51",
+      "speed": 93.92214990200404,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 261,
+      "timestamp": "2025-11-21 21:58:51",
+      "speed": 127.66131663391961,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 270,
+      "timestamp": "2025-11-21 21:58:52",
+      "speed": 121.75664934983904,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 271,
+      "timestamp": "2025-11-21 21:58:53",
+      "speed": 124.81549012199741,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 262,
+      "timestamp": "2025-11-21 21:58:53",
+      "speed": 104.93695586342481,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 283,
+      "timestamp": "2025-11-21 21:58:54",
+      "speed": "N/A",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 273,
+      "timestamp": "2025-11-21 21:58:54",
+      "speed": 122.95327832359332,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 288,
+      "timestamp": "2025-11-21 21:58:56",
+      "speed": 108.6520110976826,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 287,
+      "timestamp": "2025-11-21 21:58:56",
+      "speed": 120.29859045330447,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 268,
+      "timestamp": "2025-11-21 21:58:57",
+      "speed": 102.94272267746345,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 295,
+      "timestamp": "2025-11-21 21:58:58",
+      "speed": 144.86934813024394,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 301,
+      "timestamp": "2025-11-21 21:58:59",
+      "speed": 144.86934813024394,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 290,
+      "timestamp": "2025-11-21 21:59:00",
+      "speed": 111.26998867899115,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 305,
+      "timestamp": "2025-11-21 21:59:00",
+      "speed": 140.34105763014452,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 304,
+      "timestamp": "2025-11-21 21:59:01",
+      "speed": 137.43513097062785,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 279,
+      "timestamp": "2025-11-21 21:59:01",
+      "speed": 101.84294849997991,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 306,
+      "timestamp": "2025-11-21 21:59:02",
+      "speed": 112.37668052125848,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 307,
+      "timestamp": "2025-11-21 21:59:02",
+      "speed": 126.01734019715333,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 302,
+      "timestamp": "2025-11-21 21:59:03",
+      "speed": 104.77539001569559,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 309,
+      "timestamp": "2025-11-21 21:59:04",
+      "speed": 144.91749233538064,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 308,
+      "timestamp": "2025-11-21 21:59:05",
+      "speed": 110.02711210389836,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 322,
+      "timestamp": "2025-11-21 21:59:06",
+      "speed": 129.57508411012302,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 321,
+      "timestamp": "2025-11-21 21:59:06",
+      "speed": 112.37668052125912,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 317,
+      "timestamp": "2025-11-21 21:59:08",
+      "speed": 116.16698397604176,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 326,
+      "timestamp": "2025-11-21 21:59:11",
+      "speed": 103.14581340766749,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 310,
+      "timestamp": "2025-11-21 21:59:11",
+      "speed": 90.36426612302493,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 341,
+      "timestamp": "2025-11-21 21:59:12",
+      "speed": 167.1197900353321,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 340,
+      "timestamp": "2025-11-21 21:59:13",
+      "speed": 147.7997804007345,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 339,
+      "timestamp": "2025-11-21 21:59:16",
+      "speed": 114.8052058667971,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 357,
+      "timestamp": "2025-11-21 21:59:17",
+      "speed": 181.92054998045072,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 345,
+      "timestamp": "2025-11-21 21:59:17",
+      "speed": 117.14723235502784,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 354,
+      "timestamp": "2025-11-21 21:59:20",
+      "speed": 111.87734262301532,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 359,
+      "timestamp": "2025-11-21 21:59:20",
+      "speed": 110.53315274012269,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 356,
+      "timestamp": "2025-11-21 21:59:20",
+      "speed": 98.65258324002862,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 361,
+      "timestamp": "2025-11-21 21:59:22",
+      "speed": 111.87734262301532,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 375,
+      "timestamp": "2025-11-21 21:59:23",
+      "speed": 145.76086022558474,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 378,
+      "timestamp": "2025-11-21 21:59:26",
+      "speed": 126.47709969557678,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 382,
+      "timestamp": "2025-11-21 21:59:28",
+      "speed": 92.25166721423629,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 398,
+      "timestamp": "2025-11-21 21:59:29",
+      "speed": "N/A",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 391,
+      "timestamp": "2025-11-21 21:59:29",
+      "speed": 92.23132321307266,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 386,
+      "timestamp": "2025-11-21 21:59:29",
+      "speed": 112.25083133299364,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 395,
+      "timestamp": "2025-11-21 21:59:30",
+      "speed": 153.79662344825135,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 399,
+      "timestamp": "2025-11-21 21:59:31",
+      "speed": 137.4351309706264,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 390,
+      "timestamp": "2025-11-21 21:59:32",
+      "speed": 105.81645007873956,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 405,
+      "timestamp": "2025-11-21 21:59:33",
+      "speed": 135.32808576141127,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 396,
+      "timestamp": "2025-11-21 21:59:34",
+      "speed": 127.41127586674975,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 409,
+      "timestamp": "2025-11-21 21:59:34",
+      "speed": 150.30515108808666,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 419,
+      "timestamp": "2025-11-21 21:59:35",
+      "speed": 162.7146865041765,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 410,
+      "timestamp": "2025-11-21 21:59:36",
+      "speed": 117.43981746683576,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 414,
+      "timestamp": "2025-11-21 21:59:37",
+      "speed": "N/A",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 406,
+      "timestamp": "2025-11-21 21:59:40",
+      "speed": 97.85067360656988,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 432,
+      "timestamp": "2025-11-21 21:59:41",
+      "speed": 96.76511710980058,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 438,
+      "timestamp": "2025-11-21 21:59:42",
+      "speed": "N/A",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 436,
+      "timestamp": "2025-11-21 21:59:43",
+      "speed": 95.35422940669125,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 434,
+      "timestamp": "2025-11-21 21:59:44",
+      "speed": 111.20727864456244,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 446,
+      "timestamp": "2025-11-21 21:59:46",
+      "speed": 119.82547862921234,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 449,
+      "timestamp": "2025-11-21 21:59:46",
+      "speed": 191.53880595548117,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 442,
+      "timestamp": "2025-11-21 21:59:46",
+      "speed": 93.83722931510921,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 448,
+      "timestamp": "2025-11-21 21:59:48",
+      "speed": 118.25162310421763,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 452,
+      "timestamp": "2025-11-21 21:59:49",
+      "speed": 109.69148304808027,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "location": "Bangalore Central"
+    }
+  ],
+  "violations": [
+    {
+      "id": 234,
+      "speed": 212.3251407580456,
+      "time": "2025-11-21 21:58:40",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 233,
+      "speed": 121.62191115648693,
+      "time": "2025-11-21 21:58:40",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 237,
+      "speed": 120.1838621187348,
+      "time": "2025-11-21 21:58:42",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 247,
+      "speed": 122.20126345061799,
+      "time": "2025-11-21 21:58:43",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 235,
+      "speed": 131.7865528107102,
+      "time": "2025-11-21 21:58:43",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 245,
+      "speed": 129.42887587410553,
+      "time": "2025-11-21 21:58:43",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 249,
+      "speed": 123.76112721285521,
+      "time": "2025-11-21 21:58:45",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 251,
+      "speed": 124.10206760320713,
+      "time": "2025-11-21 21:58:46",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 258,
+      "speed": 127.79570236778825,
+      "time": "2025-11-21 21:58:48",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 260,
+      "speed": 126.60359626896584,
+      "time": "2025-11-21 21:58:50",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 267,
+      "speed": 198.87851658704082,
+      "time": "2025-11-21 21:58:50",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 265,
+      "speed": 123.35180509449064,
+      "time": "2025-11-21 21:58:50",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 261,
+      "speed": 127.66131663391961,
+      "time": "2025-11-21 21:58:51",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 256,
+      "speed": 120.79460103886441,
+      "time": "2025-11-21 21:58:51",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 270,
+      "speed": 121.75664934983904,
+      "time": "2025-11-21 21:58:52",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 271,
+      "speed": 124.81549012199741,
+      "time": "2025-11-21 21:58:53",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 262,
+      "speed": 127.8407313619399,
+      "time": "2025-11-21 21:58:53",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 277,
+      "speed": 502.6457336574228,
+      "time": "2025-11-21 21:58:54",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 283,
+      "speed": 172.81868411099214,
+      "time": "2025-11-21 21:58:54",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 273,
+      "speed": 122.95327832359332,
+      "time": "2025-11-21 21:58:54",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 288,
+      "speed": 129.95138830270082,
+      "time": "2025-11-21 21:58:56",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 287,
+      "speed": 120.29859045330447,
+      "time": "2025-11-21 21:58:56",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 294,
+      "speed": 242.74554151183878,
+      "time": "2025-11-21 21:58:57",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 268,
+      "speed": 120.89355894817446,
+      "time": "2025-11-21 21:58:57",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 295,
+      "speed": 132.65330623086396,
+      "time": "2025-11-21 21:58:57",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 296,
+      "speed": 198.4722270583345,
+      "time": "2025-11-21 21:58:58",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 301,
+      "speed": 144.86934813024394,
+      "time": "2025-11-21 21:58:59",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 290,
+      "speed": 122.27056050169206,
+      "time": "2025-11-21 21:59:00",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 305,
+      "speed": 140.34105763014452,
+      "time": "2025-11-21 21:59:00",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 304,
+      "speed": 144.86934813024394,
+      "time": "2025-11-21 21:59:00",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 279,
+      "speed": 120.79460103886441,
+      "time": "2025-11-21 21:59:01",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 307,
+      "speed": 121.52047117047722,
+      "time": "2025-11-21 21:59:02",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 306,
+      "speed": 124.21122761547734,
+      "time": "2025-11-21 21:59:02",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 309,
+      "speed": 122.16456086277994,
+      "time": "2025-11-21 21:59:03",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 302,
+      "speed": 133.54428525611834,
+      "time": "2025-11-21 21:59:04",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 319,
+      "speed": 938.6887121244486,
+      "time": "2025-11-21 21:59:05",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 318,
+      "speed": 371.0900803724967,
+      "time": "2025-11-21 21:59:05",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 308,
+      "speed": 120.99243592131263,
+      "time": "2025-11-21 21:59:05",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 322,
+      "speed": 122.20126345061838,
+      "time": "2025-11-21 21:59:06",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 321,
+      "speed": 124.21122761547753,
+      "time": "2025-11-21 21:59:07",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 317,
+      "speed": 121.83134422545535,
+      "time": "2025-11-21 21:59:08",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 335,
+      "speed": 763.728171356267,
+      "time": "2025-11-21 21:59:10",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 327,
+      "speed": 127.05882352941221,
+      "time": "2025-11-21 21:59:10",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 326,
+      "speed": 127.1293921677485,
+      "time": "2025-11-21 21:59:11",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 341,
+      "speed": 152.99908405994972,
+      "time": "2025-11-21 21:59:11",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 310,
+      "speed": 125.63952279974697,
+      "time": "2025-11-21 21:59:12",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 340,
+      "speed": 127.05882352941221,
+      "time": "2025-11-21 21:59:12",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 344,
+      "speed": 419.4865868413359,
+      "time": "2025-11-21 21:59:13",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 350,
+      "speed": 124.29343559290596,
+      "time": "2025-11-21 21:59:16",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 339,
+      "speed": 123.84966889107571,
+      "time": "2025-11-21 21:59:16",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 357,
+      "speed": 167.1197900353321,
+      "time": "2025-11-21 21:59:16",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 345,
+      "speed": 137.8405879328035,
+      "time": "2025-11-21 21:59:17",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 362,
+      "speed": 638.0832890281686,
+      "time": "2025-11-21 21:59:19",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 354,
+      "speed": 122.82352941176478,
+      "time": "2025-11-21 21:59:20",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 359,
+      "speed": 123.82552743951737,
+      "time": "2025-11-21 21:59:20",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 356,
+      "speed": 127.3804752194307,
+      "time": "2025-11-21 21:59:20",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 379,
+      "speed": 157.16308502354434,
+      "time": "2025-11-21 21:59:22",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 361,
+      "speed": 126.81545319695937,
+      "time": "2025-11-21 21:59:23",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 375,
+      "speed": 127.66131663391971,
+      "time": "2025-11-21 21:59:23",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 378,
+      "speed": 126.47709969557678,
+      "time": "2025-11-21 21:59:26",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 382,
+      "speed": 122.23795501831164,
+      "time": "2025-11-21 21:59:28",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 395,
+      "speed": 121.58042321014757,
+      "time": "2025-11-21 21:59:29",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 398,
+      "speed": 152.99908405994972,
+      "time": "2025-11-21 21:59:30",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 386,
+      "speed": 124.18715644940795,
+      "time": "2025-11-21 21:59:30",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 391,
+      "speed": 127.6312770875911,
+      "time": "2025-11-21 21:59:30",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 399,
+      "speed": 128.63725452836294,
+      "time": "2025-11-21 21:59:31",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 403,
+      "speed": 125.1384285404686,
+      "time": "2025-11-21 21:59:31",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 390,
+      "speed": 125.78181801812438,
+      "time": "2025-11-21 21:59:32",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 404,
+      "speed": 998.0387688276704,
+      "time": "2025-11-21 21:59:32",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 405,
+      "speed": 125.98220338974218,
+      "time": "2025-11-21 21:59:33",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 409,
+      "speed": 125.98700872225591,
+      "time": "2025-11-21 21:59:34",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 396,
+      "speed": 127.41127586674975,
+      "time": "2025-11-21 21:59:34",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 418,
+      "speed": 519.0784487783721,
+      "time": "2025-11-21 21:59:35",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 419,
+      "speed": 162.7146865041765,
+      "time": "2025-11-21 21:59:35",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 410,
+      "speed": 134.53310265262854,
+      "time": "2025-11-21 21:59:36",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 414,
+      "speed": 200.89763958716833,
+      "time": "2025-11-21 21:59:37",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 406,
+      "speed": 133.82755003656405,
+      "time": "2025-11-21 21:59:41",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 432,
+      "speed": 122.49042049967402,
+      "time": "2025-11-21 21:59:42",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 438,
+      "speed": 188.88652055416523,
+      "time": "2025-11-21 21:59:43",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 436,
+      "speed": 121.24749489082639,
+      "time": "2025-11-21 21:59:43",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 445,
+      "speed": 720.7719045636478,
+      "time": "2025-11-21 21:59:44",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 434,
+      "speed": 121.78874443024743,
+      "time": "2025-11-21 21:59:45",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 449,
+      "speed": 165.66443759103262,
+      "time": "2025-11-21 21:59:46",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 446,
+      "speed": 130.4718081945833,
+      "time": "2025-11-21 21:59:46",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 442,
+      "speed": 122.7910707617759,
+      "time": "2025-11-21 21:59:47",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 448,
+      "speed": 131.17261930510972,
+      "time": "2025-11-21 21:59:48",
+      "location": "Bangalore Central"
+    },
+    {
+      "id": 452,
+      "speed": 124.5237293432472,
+      "time": "2025-11-21 21:59:49",
+      "location": "Bangalore Central"
+    }
+  ]
+}

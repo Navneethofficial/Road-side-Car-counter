@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analytics Dashboard - Traffic Monitoring</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container { max-width: 1400px; margin: 0 auto; }
+        
+        header { text-align: center; color: white; margin-bottom: 20px; }
+        h1 { font-size: 2.5em; margin-bottom: 10px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); }
+        
+        .nav-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .nav-btn {
+            background: white;
+            color: #667eea;
+            border: none;
+            padding: 12px 30px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1em;
+            font-weight: 600;
+            transition: all 0.3s;
+            text-decoration: none;
+            display: inline-block;
+        }
+        
+        .nav-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        }
+        
+        .stats-overview {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .stat-box {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            text-align: center;
+        }
+        
+        .stat-icon {
+            font-size: 3em;
+            margin-bottom: 10px;
+        }
+        
+        .stat-value {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 5px;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-size: 1em;
+        }
+        
+        .chart-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .chart-card {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            min-height: 400px;
+        }
+        
+        .chart-card h3 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 1.3em;
+        }
+        
+        .chart-card canvas {
+            max-height: 350px;
+        }
+        
+        .table-card {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            margin-bottom: 20px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        th {
+            background: #667eea;
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+        }
+        
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            max-width: 300px;
+        }
+        
+        tr:hover {
+            background: #f5f5f5;
+        }
+        
+        .violation-badge {
+            background: #f44336;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 15px;
+            font-size: 0.9em;
+            font-weight: bold;
+        }
+        
+        .loader {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 50px auto;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .no-data {
+            text-align: center;
+            padding: 50px;
+            color: #999;
+            font-size: 1.2em;
+        }
+        
+        @media (max-width: 768px) {
+            .chart-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📊 Analytics Dashboard</h1>
+            <p style="color: white; opacity: 0.9;">Comprehensive Traffic Analysis & Insights</p>
+        </header>
+
+        <div class="nav-buttons">
+            <a href="/" class="nav-btn">🏠 Home</a>
+            <a href="/calibration" class="nav-btn">🎯 Calibration Tool</a>
+            <a href="/analytics" class="nav-btn">📊 Analytics Dashboard</a>
+        </div>
+
+        <div id="loading" class="loader"></div>
+
+        <div id="analytics-content" style="display: none;">
+            <!-- Statistics Overview -->
+            <div class="stats-overview">
+                <div class="stat-box">
+                    <div class="stat-icon">📁</div>
+                    <div class="stat-value" id="total-reports">0</div>
+                    <div class="stat-label">Total Reports</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-icon">🚗</div>
+                    <div class="stat-value" id="total-vehicles-all">0</div>
+                    <div class="stat-label">Total Vehicles</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-icon">⚠️</div>
+                    <div class="stat-value" id="total-violations-all">0</div>
+                    <div class="stat-label">Speed Violations</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-icon">⚡</div>
+                    <div class="stat-value" id="avg-speed-all">0</div>
+                    <div class="stat-label">Avg Speed (km/h)</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-icon">📈</div>
+                    <div class="stat-value" id="violation-rate">0%</div>
+                    <div class="stat-label">Violation Rate</div>
+                </div>
+            </div>
+
+            <!-- Charts -->
+            <div class="chart-grid">
+                <div class="chart-card">
+                    <h3>📊 Speed Distribution</h3>
+                    <canvas id="speedChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>📍 Location-wise Analysis</h3>
+                    <canvas id="locationChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Top Violations Table -->
+            <div class="table-card">
+                <h3 style="color: #667eea; margin-bottom: 20px;">🚨 Top 10 Speed Violations</h3>
+                <table id="violations-table">
+                    <thead>
+                        <tr>
+                            <th>Rank</th>
+                            <th>Vehicle ID</th>
+                            <th>Speed (km/h)</th>
+                            <th>Date & Time</th>
+                            <th>Location</th>
+                        </tr>
+                    </thead>
+                    <tbody id="violations-tbody">
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Reports List -->
+            <div class="table-card">
+                <h3 style="color: #667eea; margin-bottom: 20px;">📄 All Reports</h3>
+                <table id="reports-table">
+                    <thead>
+                        <tr>
+                            <th>Date & Time</th>
+                            <th>Location</th>
+                            <th>Vehicles</th>
+                            <th>Violations</th>
+                            <th>Violation Rate</th>
+                        </tr>
+                    </thead>
+                    <tbody id="reports-tbody">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div id="no-data" class="no-data" style="display: none;">
+            <p>📭 No reports available yet</p>
+            <p style="font-size: 0.9em; margin-top: 10px;">Process some videos to see analytics here</p>
+            <a href="/" class="nav-btn" style="margin-top: 20px;">Go to Home</a>
+        </div>
+    </div>
+
+    <script>
+        let speedChart = null;
+        let locationChart = null;
+
+        async function loadAnalytics() {
+            try {
+                const response = await fetch('/get_analytics_data');
+                const data = await response.json();
+
+                if (data.success && data.total_reports > 0) {
+                    displayAnalytics(data);
+                    document.getElementById('analytics-content').style.display = 'block';
+                    document.getElementById('no-data').style.display = 'none';
+                } else {
+                    document.getElementById('no-data').style.display = 'block';
+                    document.getElementById('analytics-content').style.display = 'none';
+                }
+            } catch (error) {
+                console.error('Error loading analytics:', error);
+                document.getElementById('no-data').style.display = 'block';
+            } finally {
+                document.getElementById('loading').style.display = 'none';
+            }
+        }
+
+        function displayAnalytics(data) {
+            // Update stats
+            document.getElementById('total-reports').textContent = data.total_reports;
+            document.getElementById('total-vehicles-all').textContent = data.total_vehicles;
+            document.getElementById('total-violations-all').textContent = data.total_violations;
+            document.getElementById('avg-speed-all').textContent = data.avg_speed;
+            
+            const violationRate = data.total_vehicles > 0 
+                ? ((data.total_violations / data.total_vehicles) * 100).toFixed(1) 
+                : 0;
+            document.getElementById('violation-rate').textContent = violationRate + '%';
+
+            // Speed Distribution Chart
+            const speedCtx = document.getElementById('speedChart').getContext('2d');
+            if (speedChart) speedChart.destroy();
+            
+            speedChart = new Chart(speedCtx, {
+                type: 'bar',
+                data: {
+                    labels: ['0-40 km/h', '41-60 km/h', '61-80 km/h', '81-100 km/h', '100+ km/h'],
+                    datasets: [{
+                        label: 'Number of Vehicles',
+                        data: [
+                            data.speed_distribution['0-40'],
+                            data.speed_distribution['41-60'],
+                            data.speed_distribution['61-80'],
+                            data.speed_distribution['81-100'],
+                            data.speed_distribution['100+']
+                        ],
+                        backgroundColor: [
+                            '#4caf50',
+                            '#8bc34a',
+                            '#ffc107',
+                            '#ff9800',
+                            '#f44336'
+                        ]
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: { display: false }
+                    },
+                    scales: {
+                        y: { beginAtZero: true }
+                    }
+                }
+            });
+
+            // Location Chart
+            const locationCtx = document.getElementById('locationChart').getContext('2d');
+            if (locationChart) locationChart.destroy();
+            
+            const locations = Object.keys(data.location_stats);
+            const locationVehicles = locations.map(loc => data.location_stats[loc].vehicles);
+            const locationViolations = locations.map(loc => data.location_stats[loc].violations);
+            
+            // Truncate long location names for chart
+            const displayLocations = locations.map(loc => {
+                if (loc.length > 30) {
+                    return loc.substring(0, 27) + '...';
+                }
+                return loc;
+            });
+            
+            locationChart = new Chart(locationCtx, {
+                type: 'bar',
+                data: {
+                    labels: displayLocations,
+                    datasets: [
+                        {
+                            label: 'Total Vehicles',
+                            data: locationVehicles,
+                            backgroundColor: '#667eea'
+                        },
+                        {
+                            label: 'Violations',
+                            data: locationViolations,
+                            backgroundColor: '#f44336'
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    scales: {
+                        x: {
+                            ticks: {
+                                autoSkip: false,
+                                maxRotation: 45,
+                                minRotation: 45,
+                                font: {
+                                    size: 10
+                                }
+                            }
+                        },
+                        y: { 
+                            beginAtZero: true 
+                        }
+                    },
+                    plugins: {
+                        tooltip: {
+                            callbacks: {
+                                title: function(context) {
+                                    return locations[context[0].dataIndex];
+                                }
+                            }
+                        },
+                        legend: {
+                            display: true,
+                            position: 'top'
+                        }
+                    }
+                }
+            });
+
+            // Top Violations Table
+            const violationsTbody = document.getElementById('violations-tbody');
+            violationsTbody.innerHTML = '';
+            
+            data.top_violations.forEach((v, index) => {
+                const row = document.createElement('tr');
+                const locationDisplay = (v.location && v.location.length > 40) 
+                    ? v.location.substring(0, 37) + '...' 
+                    : (v.location || 'Unknown');
+                
+                row.innerHTML = `
+                    <td><strong>${index + 1}</strong></td>
+                    <td>Vehicle #${v.id}</td>
+                    <td><span class="violation-badge">${v.speed.toFixed(1)} km/h</span></td>
+                    <td>${v.time}</td>
+                    <td title="${v.location || 'Unknown'}">${locationDisplay}</td>
+                `;
+                violationsTbody.appendChild(row);
+            });
+
+            // Reports Table
+            const reportsTbody = document.getElementById('reports-tbody');
+            reportsTbody.innerHTML = '';
+            
+            data.reports.slice().reverse().forEach(report => {
+                const row = document.createElement('tr');
+                const rate = report.total_vehicles > 0 
+                    ? ((report.speed_violations / report.total_vehicles) * 100).toFixed(1) 
+                    : 0;
+                
+                const location = typeof report.location === 'object' 
+                    ? report.location.location_name 
+                    : 'Unknown';
+                    
+                const locationDisplay = (location && location.length > 40)
+                    ? location.substring(0, 37) + '...'
+                    : location;
+                
+                row.innerHTML = `
+                    <td>${report.timestamp}</td>
+                    <td title="${location}">${locationDisplay}</td>
+                    <td>${report.total_vehicles}</td>
+                    <td>${report.speed_violations}</td>
+                    <td>${rate}%</td>
+                `;
+                reportsTbody.appendChild(row);
+            });
+        }
+
+        // Load analytics on page load
+        loadAnalytics();
+
+        // Refresh every 30 seconds
+        setInterval(loadAnalytics, 30000);
+    </script>
+</body>
+</html>

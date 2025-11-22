@@ -1,0 +1,1129 @@
+{
+  "timestamp": "2025-11-22 11:24:31",
+  "total_vehicles": 70,
+  "speed_violations": 92,
+  "speed_limit": 60,
+  "location": {
+    "latitude": 13.021141500450838,
+    "longitude": 77.70561770710248,
+    "location_name": "NEW INDUS VALLEY RESIDENTIAL SCHOOL",
+    "road_name": "Garden City College Road Virgo Nagar (P K. R. Puram, Kithaganur Main Rd, Krishnarajapuram, Bengaluru, Karnataka 560049",
+    "enabled": true
+  },
+  "vehicles": [
+    {
+      "id": 1,
+      "timestamp": "2025-11-22 11:24:08",
+      "speed": 133.0179060194503,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 5,
+      "timestamp": "2025-11-22 11:24:08",
+      "speed": 120.1838621187348,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 3,
+      "timestamp": "2025-11-22 11:24:09",
+      "speed": 131.7865528107102,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 15,
+      "timestamp": "2025-11-22 11:24:09",
+      "speed": 133.6007065435185,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 13,
+      "timestamp": "2025-11-22 11:24:09",
+      "speed": 129.42887587410553,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 17,
+      "timestamp": "2025-11-22 11:24:10",
+      "speed": 123.76112721285521,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 19,
+      "timestamp": "2025-11-22 11:24:10",
+      "speed": 147.7572122491024,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 26,
+      "timestamp": "2025-11-22 11:24:11",
+      "speed": 127.79570236778825,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 28,
+      "timestamp": "2025-11-22 11:24:11",
+      "speed": 103.25022516459612,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 33,
+      "timestamp": "2025-11-22 11:24:12",
+      "speed": 123.35180509449064,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 24,
+      "timestamp": "2025-11-22 11:24:12",
+      "speed": 93.92214990200404,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 29,
+      "timestamp": "2025-11-22 11:24:12",
+      "speed": 127.66131663391961,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 38,
+      "timestamp": "2025-11-22 11:24:13",
+      "speed": 121.75664934983904,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 39,
+      "timestamp": "2025-11-22 11:24:13",
+      "speed": 124.81549012199741,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 30,
+      "timestamp": "2025-11-22 11:24:13",
+      "speed": 104.93695586342481,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 51,
+      "timestamp": "2025-11-22 11:24:14",
+      "speed": "N/A",
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 41,
+      "timestamp": "2025-11-22 11:24:14",
+      "speed": 122.95327832359332,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 56,
+      "timestamp": "2025-11-22 11:24:14",
+      "speed": 108.6520110976826,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 55,
+      "timestamp": "2025-11-22 11:24:15",
+      "speed": 120.29859045330447,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 36,
+      "timestamp": "2025-11-22 11:24:15",
+      "speed": 102.94272267746345,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 63,
+      "timestamp": "2025-11-22 11:24:15",
+      "speed": 144.86934813024394,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 69,
+      "timestamp": "2025-11-22 11:24:15",
+      "speed": 144.86934813024394,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 58,
+      "timestamp": "2025-11-22 11:24:16",
+      "speed": 111.26998867899115,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 73,
+      "timestamp": "2025-11-22 11:24:16",
+      "speed": 140.34105763014452,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 72,
+      "timestamp": "2025-11-22 11:24:16",
+      "speed": 137.43513097062785,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 47,
+      "timestamp": "2025-11-22 11:24:16",
+      "speed": 101.84294849997991,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 74,
+      "timestamp": "2025-11-22 11:24:16",
+      "speed": 112.37668052125848,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 75,
+      "timestamp": "2025-11-22 11:24:16",
+      "speed": 126.01734019715333,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 70,
+      "timestamp": "2025-11-22 11:24:17",
+      "speed": 104.77539001569559,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 77,
+      "timestamp": "2025-11-22 11:24:17",
+      "speed": 144.91749233538064,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 76,
+      "timestamp": "2025-11-22 11:24:17",
+      "speed": 110.02711210389836,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 90,
+      "timestamp": "2025-11-22 11:24:18",
+      "speed": 129.57508411012302,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 89,
+      "timestamp": "2025-11-22 11:24:18",
+      "speed": 112.37668052125912,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 85,
+      "timestamp": "2025-11-22 11:24:18",
+      "speed": 116.16698397604176,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 94,
+      "timestamp": "2025-11-22 11:24:19",
+      "speed": 103.14581340766749,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 78,
+      "timestamp": "2025-11-22 11:24:19",
+      "speed": 90.36426612302493,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 109,
+      "timestamp": "2025-11-22 11:24:19",
+      "speed": 167.1197900353321,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 108,
+      "timestamp": "2025-11-22 11:24:20",
+      "speed": 147.7997804007345,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 107,
+      "timestamp": "2025-11-22 11:24:21",
+      "speed": 114.8052058667971,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 125,
+      "timestamp": "2025-11-22 11:24:21",
+      "speed": 181.92054998045072,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 113,
+      "timestamp": "2025-11-22 11:24:21",
+      "speed": 117.14723235502784,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 122,
+      "timestamp": "2025-11-22 11:24:22",
+      "speed": 111.87734262301532,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 127,
+      "timestamp": "2025-11-22 11:24:22",
+      "speed": 110.53315274012269,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 124,
+      "timestamp": "2025-11-22 11:24:22",
+      "speed": 98.65258324002862,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 129,
+      "timestamp": "2025-11-22 11:24:22",
+      "speed": 111.87734262301532,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 143,
+      "timestamp": "2025-11-22 11:24:23",
+      "speed": 145.76086022558474,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 146,
+      "timestamp": "2025-11-22 11:24:24",
+      "speed": 126.47709969557678,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 150,
+      "timestamp": "2025-11-22 11:24:24",
+      "speed": 92.25166721423629,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 166,
+      "timestamp": "2025-11-22 11:24:25",
+      "speed": "N/A",
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 159,
+      "timestamp": "2025-11-22 11:24:25",
+      "speed": 92.23132321307266,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 154,
+      "timestamp": "2025-11-22 11:24:25",
+      "speed": 112.25083133299364,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 163,
+      "timestamp": "2025-11-22 11:24:25",
+      "speed": 153.79662344825135,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 167,
+      "timestamp": "2025-11-22 11:24:25",
+      "speed": 137.4351309706264,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 158,
+      "timestamp": "2025-11-22 11:24:25",
+      "speed": 105.81645007873956,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 173,
+      "timestamp": "2025-11-22 11:24:26",
+      "speed": 135.32808576141127,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 164,
+      "timestamp": "2025-11-22 11:24:26",
+      "speed": 127.41127586674975,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 177,
+      "timestamp": "2025-11-22 11:24:26",
+      "speed": 150.30515108808666,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 187,
+      "timestamp": "2025-11-22 11:24:26",
+      "speed": 162.7146865041765,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 178,
+      "timestamp": "2025-11-22 11:24:27",
+      "speed": 117.43981746683576,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 182,
+      "timestamp": "2025-11-22 11:24:27",
+      "speed": "N/A",
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 174,
+      "timestamp": "2025-11-22 11:24:28",
+      "speed": 97.85067360656988,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 200,
+      "timestamp": "2025-11-22 11:24:29",
+      "speed": 96.76511710980058,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 206,
+      "timestamp": "2025-11-22 11:24:29",
+      "speed": "N/A",
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 204,
+      "timestamp": "2025-11-22 11:24:29",
+      "speed": 95.35422940669125,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 202,
+      "timestamp": "2025-11-22 11:24:30",
+      "speed": 111.20727864456244,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 214,
+      "timestamp": "2025-11-22 11:24:30",
+      "speed": 119.82547862921234,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 217,
+      "timestamp": "2025-11-22 11:24:30",
+      "speed": 191.53880595548117,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 210,
+      "timestamp": "2025-11-22 11:24:30",
+      "speed": 93.83722931510921,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 216,
+      "timestamp": "2025-11-22 11:24:31",
+      "speed": 118.25162310421763,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 220,
+      "timestamp": "2025-11-22 11:24:31",
+      "speed": 109.69148304808027,
+      "latitude": 13.021141500450838,
+      "longitude": 77.70561770710248,
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    }
+  ],
+  "violations": [
+    {
+      "id": 4,
+      "speed": 88.94117647058823,
+      "time": "2025-11-22 11:24:08",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 2,
+      "speed": 71.87532458178555,
+      "time": "2025-11-22 11:24:08",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 5,
+      "speed": 88.48623140799323,
+      "time": "2025-11-22 11:24:08",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 1,
+      "speed": 67.53269104560837,
+      "time": "2025-11-22 11:24:08",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 3,
+      "speed": 61.09859296484442,
+      "time": "2025-11-22 11:24:08",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 13,
+      "speed": 67.29987634759358,
+      "time": "2025-11-22 11:24:08",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 15,
+      "speed": 104.77539001569586,
+      "time": "2025-11-22 11:24:09",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 17,
+      "speed": 60.269291876150305,
+      "time": "2025-11-22 11:24:09",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 19,
+      "speed": 109.30013280477694,
+      "time": "2025-11-22 11:24:10",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 26,
+      "speed": 76.23529411764734,
+      "time": "2025-11-22 11:24:10",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 28,
+      "speed": 64.78754205506137,
+      "time": "2025-11-22 11:24:11",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 29,
+      "speed": 61.87653741405499,
+      "time": "2025-11-22 11:24:11",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 33,
+      "speed": 117.14244722207397,
+      "time": "2025-11-22 11:24:11",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 24,
+      "speed": 62.692526996257506,
+      "time": "2025-11-22 11:24:12",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 35,
+      "speed": 198.87851658704082,
+      "time": "2025-11-22 11:24:12",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 38,
+      "speed": 63.529411764706104,
+      "time": "2025-11-22 11:24:12",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 39,
+      "speed": 115.05665822574643,
+      "time": "2025-11-22 11:24:12",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 30,
+      "speed": 63.52941176470583,
+      "time": "2025-11-22 11:24:12",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 40,
+      "speed": 81.35734325208826,
+      "time": "2025-11-22 11:24:13",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 41,
+      "speed": 92.5002197696822,
+      "time": "2025-11-22 11:24:13",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 45,
+      "speed": 502.6457336574228,
+      "time": "2025-11-22 11:24:13",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 51,
+      "speed": 172.81868411099214,
+      "time": "2025-11-22 11:24:14",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 56,
+      "speed": 92.5002197696822,
+      "time": "2025-11-22 11:24:14",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 55,
+      "speed": 68.42327049065041,
+      "time": "2025-11-22 11:24:14",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 36,
+      "speed": 63.92036568096995,
+      "time": "2025-11-22 11:24:14",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 62,
+      "speed": 242.74554151183878,
+      "time": "2025-11-22 11:24:15",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 63,
+      "speed": 132.65330623086396,
+      "time": "2025-11-22 11:24:15",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 64,
+      "speed": 198.4722270583345,
+      "time": "2025-11-22 11:24:15",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 58,
+      "speed": 61.29400474190793,
+      "time": "2025-11-22 11:24:15",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 69,
+      "speed": 144.86934813024394,
+      "time": "2025-11-22 11:24:15",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 47,
+      "speed": 64.38637694677489,
+      "time": "2025-11-22 11:24:16",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 73,
+      "speed": 140.34105763014452,
+      "time": "2025-11-22 11:24:16",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 72,
+      "speed": 144.86934813024394,
+      "time": "2025-11-22 11:24:16",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 74,
+      "speed": 68.42327049065041,
+      "time": "2025-11-22 11:24:16",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 75,
+      "speed": 117.14244722207474,
+      "time": "2025-11-22 11:24:16",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 77,
+      "speed": 91.62342064708523,
+      "time": "2025-11-22 11:24:16",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 70,
+      "speed": 61.29400474190793,
+      "time": "2025-11-22 11:24:16",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 76,
+      "speed": 61.29400474190802,
+      "time": "2025-11-22 11:24:17",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 87,
+      "speed": 938.6887121244486,
+      "time": "2025-11-22 11:24:17",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 85,
+      "speed": 63.52941176470442,
+      "time": "2025-11-22 11:24:17",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 89,
+      "speed": 80.35905583486735,
+      "time": "2025-11-22 11:24:17",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 86,
+      "speed": 371.0900803724967,
+      "time": "2025-11-22 11:24:17",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 90,
+      "speed": 115.05665822574643,
+      "time": "2025-11-22 11:24:18",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 94,
+      "speed": 92.5002197696822,
+      "time": "2025-11-22 11:24:18",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 95,
+      "speed": 102.43809844897017,
+      "time": "2025-11-22 11:24:19",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 103,
+      "speed": 763.728171356267,
+      "time": "2025-11-22 11:24:19",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 78,
+      "speed": 90.36426612302493,
+      "time": "2025-11-22 11:24:19",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 109,
+      "speed": 152.99908405994972,
+      "time": "2025-11-22 11:24:19",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 108,
+      "speed": 127.05882352941221,
+      "time": "2025-11-22 11:24:19",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 112,
+      "speed": 419.4865868413359,
+      "time": "2025-11-22 11:24:19",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 107,
+      "speed": 60.88037800032298,
+      "time": "2025-11-22 11:24:20",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 118,
+      "speed": 68.42327049065041,
+      "time": "2025-11-22 11:24:20",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 113,
+      "speed": 61.10063172530893,
+      "time": "2025-11-22 11:24:20",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 125,
+      "speed": 167.1197900353321,
+      "time": "2025-11-22 11:24:21",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 126,
+      "speed": 63.52941176470442,
+      "time": "2025-11-22 11:24:21",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 127,
+      "speed": 77.28686509084824,
+      "time": "2025-11-22 11:24:21",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 130,
+      "speed": 638.0832890281686,
+      "time": "2025-11-22 11:24:21",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 122,
+      "speed": 60.426168166680405,
+      "time": "2025-11-22 11:24:21",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 124,
+      "speed": 78.5815425117719,
+      "time": "2025-11-22 11:24:21",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 129,
+      "speed": 63.529411764706104,
+      "time": "2025-11-22 11:24:22",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 143,
+      "speed": 81.35734325208826,
+      "time": "2025-11-22 11:24:22",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 147,
+      "speed": 157.16308502354434,
+      "time": "2025-11-22 11:24:22",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 146,
+      "speed": 63.21490779455469,
+      "time": "2025-11-22 11:24:23",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 150,
+      "speed": 65.48461875981015,
+      "time": "2025-11-22 11:24:23",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 154,
+      "speed": 62.40574900320081,
+      "time": "2025-11-22 11:24:24",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 158,
+      "speed": 60.686385377959695,
+      "time": "2025-11-22 11:24:24",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 163,
+      "speed": 109.3001328047773,
+      "time": "2025-11-22 11:24:24",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 159,
+      "speed": 73.3030869783368,
+      "time": "2025-11-22 11:24:24",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 166,
+      "speed": 152.99908405994972,
+      "time": "2025-11-22 11:24:25",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 167,
+      "speed": 113.64486662116617,
+      "time": "2025-11-22 11:24:25",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 171,
+      "speed": 125.1384285404686,
+      "time": "2025-11-22 11:24:25",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 172,
+      "speed": 998.0387688276704,
+      "time": "2025-11-22 11:24:25",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 173,
+      "speed": 117.14244722207474,
+      "time": "2025-11-22 11:24:26",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 164,
+      "speed": 101.64705882352978,
+      "time": "2025-11-22 11:24:26",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 177,
+      "speed": 117.14244722207474,
+      "time": "2025-11-22 11:24:26",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 178,
+      "speed": 80.35905583486735,
+      "time": "2025-11-22 11:24:26",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 186,
+      "speed": 519.0784487783721,
+      "time": "2025-11-22 11:24:26",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 187,
+      "speed": 162.7146865041765,
+      "time": "2025-11-22 11:24:26",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 182,
+      "speed": 200.89763958716833,
+      "time": "2025-11-22 11:24:27",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 174,
+      "speed": 60.0290587072073,
+      "time": "2025-11-22 11:24:28",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 200,
+      "speed": 61.38437523092781,
+      "time": "2025-11-22 11:24:28",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 197,
+      "speed": 64.96423567969073,
+      "time": "2025-11-22 11:24:28",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 204,
+      "speed": 77.28686509084824,
+      "time": "2025-11-22 11:24:28",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 206,
+      "speed": 188.88652055416523,
+      "time": "2025-11-22 11:24:29",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 202,
+      "speed": 63.016095367963985,
+      "time": "2025-11-22 11:24:29",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 213,
+      "speed": 720.7719045636478,
+      "time": "2025-11-22 11:24:30",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 214,
+      "speed": 74.08738878156409,
+      "time": "2025-11-22 11:24:30",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 210,
+      "speed": 62.18178506977502,
+      "time": "2025-11-22 11:24:30",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 216,
+      "speed": 92.5002197696822,
+      "time": "2025-11-22 11:24:30",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 217,
+      "speed": 165.66443759103262,
+      "time": "2025-11-22 11:24:30",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 220,
+      "speed": 74.08738878156409,
+      "time": "2025-11-22 11:24:30",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    },
+    {
+      "id": 227,
+      "speed": 74.08738878156409,
+      "time": "2025-11-22 11:24:31",
+      "location": "NEW INDUS VALLEY RESIDENTIAL SCHOOL"
+    }
+  ]
+}

@@ -1,0 +1,1099 @@
+{
+  "timestamp": "2025-11-22 15:10:41",
+  "total_vehicles": 70,
+  "speed_violations": 87,
+  "speed_limit": 100,
+  "location": {
+    "latitude": 12.928798112102736,
+    "longitude": 77.55628604349944,
+    "location_name": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India",
+    "road_name": "Road",
+    "enabled": true
+  },
+  "vehicles": [
+    {
+      "id": 233,
+      "timestamp": "2025-11-22 15:10:18",
+      "speed": 133.0179060194503,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 237,
+      "timestamp": "2025-11-22 15:10:19",
+      "speed": 120.1838621187348,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 235,
+      "timestamp": "2025-11-22 15:10:19",
+      "speed": 131.7865528107102,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 247,
+      "timestamp": "2025-11-22 15:10:19",
+      "speed": 133.6007065435185,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 245,
+      "timestamp": "2025-11-22 15:10:19",
+      "speed": 129.42887587410553,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 249,
+      "timestamp": "2025-11-22 15:10:20",
+      "speed": 123.76112721285521,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 251,
+      "timestamp": "2025-11-22 15:10:20",
+      "speed": 147.7572122491024,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 258,
+      "timestamp": "2025-11-22 15:10:21",
+      "speed": 127.79570236778825,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 260,
+      "timestamp": "2025-11-22 15:10:22",
+      "speed": 103.25022516459612,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 265,
+      "timestamp": "2025-11-22 15:10:22",
+      "speed": 123.35180509449064,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 256,
+      "timestamp": "2025-11-22 15:10:22",
+      "speed": 93.92214990200404,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 261,
+      "timestamp": "2025-11-22 15:10:22",
+      "speed": 127.66131663391961,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 270,
+      "timestamp": "2025-11-22 15:10:23",
+      "speed": 121.75664934983904,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 271,
+      "timestamp": "2025-11-22 15:10:23",
+      "speed": 124.81549012199741,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 262,
+      "timestamp": "2025-11-22 15:10:23",
+      "speed": 104.93695586342481,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 283,
+      "timestamp": "2025-11-22 15:10:24",
+      "speed": "N/A",
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 273,
+      "timestamp": "2025-11-22 15:10:24",
+      "speed": 122.95327832359332,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 288,
+      "timestamp": "2025-11-22 15:10:24",
+      "speed": 108.6520110976826,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 287,
+      "timestamp": "2025-11-22 15:10:24",
+      "speed": 120.29859045330447,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 268,
+      "timestamp": "2025-11-22 15:10:25",
+      "speed": 102.94272267746345,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 295,
+      "timestamp": "2025-11-22 15:10:25",
+      "speed": 144.86934813024394,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 301,
+      "timestamp": "2025-11-22 15:10:25",
+      "speed": 144.86934813024394,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 290,
+      "timestamp": "2025-11-22 15:10:26",
+      "speed": 111.26998867899115,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 305,
+      "timestamp": "2025-11-22 15:10:26",
+      "speed": 140.34105763014452,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 304,
+      "timestamp": "2025-11-22 15:10:26",
+      "speed": 137.43513097062785,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 279,
+      "timestamp": "2025-11-22 15:10:26",
+      "speed": 101.84294849997991,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 306,
+      "timestamp": "2025-11-22 15:10:26",
+      "speed": 112.37668052125848,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 307,
+      "timestamp": "2025-11-22 15:10:26",
+      "speed": 126.01734019715333,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 302,
+      "timestamp": "2025-11-22 15:10:27",
+      "speed": 104.77539001569559,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 309,
+      "timestamp": "2025-11-22 15:10:27",
+      "speed": 144.91749233538064,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 308,
+      "timestamp": "2025-11-22 15:10:27",
+      "speed": 110.02711210389836,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 322,
+      "timestamp": "2025-11-22 15:10:27",
+      "speed": 129.57508411012302,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 321,
+      "timestamp": "2025-11-22 15:10:27",
+      "speed": 112.37668052125912,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 317,
+      "timestamp": "2025-11-22 15:10:28",
+      "speed": 116.16698397604176,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 326,
+      "timestamp": "2025-11-22 15:10:28",
+      "speed": 103.14581340766749,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 310,
+      "timestamp": "2025-11-22 15:10:29",
+      "speed": 90.36426612302493,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 341,
+      "timestamp": "2025-11-22 15:10:29",
+      "speed": 167.1197900353321,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 340,
+      "timestamp": "2025-11-22 15:10:29",
+      "speed": 147.7997804007345,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 339,
+      "timestamp": "2025-11-22 15:10:30",
+      "speed": 114.8052058667971,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 357,
+      "timestamp": "2025-11-22 15:10:30",
+      "speed": 181.92054998045072,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 345,
+      "timestamp": "2025-11-22 15:10:30",
+      "speed": 117.14723235502784,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 354,
+      "timestamp": "2025-11-22 15:10:31",
+      "speed": 111.87734262301532,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 359,
+      "timestamp": "2025-11-22 15:10:31",
+      "speed": 110.53315274012269,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 356,
+      "timestamp": "2025-11-22 15:10:31",
+      "speed": 98.65258324002862,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 361,
+      "timestamp": "2025-11-22 15:10:32",
+      "speed": 111.87734262301532,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 375,
+      "timestamp": "2025-11-22 15:10:32",
+      "speed": 145.76086022558474,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 378,
+      "timestamp": "2025-11-22 15:10:33",
+      "speed": 126.47709969557678,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 382,
+      "timestamp": "2025-11-22 15:10:33",
+      "speed": 92.25166721423629,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 398,
+      "timestamp": "2025-11-22 15:10:34",
+      "speed": "N/A",
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 391,
+      "timestamp": "2025-11-22 15:10:34",
+      "speed": 92.23132321307266,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 386,
+      "timestamp": "2025-11-22 15:10:34",
+      "speed": 112.25083133299364,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 395,
+      "timestamp": "2025-11-22 15:10:34",
+      "speed": 153.79662344825135,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 399,
+      "timestamp": "2025-11-22 15:10:34",
+      "speed": 137.4351309706264,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 390,
+      "timestamp": "2025-11-22 15:10:35",
+      "speed": 105.81645007873956,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 405,
+      "timestamp": "2025-11-22 15:10:35",
+      "speed": 135.32808576141127,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 396,
+      "timestamp": "2025-11-22 15:10:35",
+      "speed": 127.41127586674975,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 409,
+      "timestamp": "2025-11-22 15:10:35",
+      "speed": 150.30515108808666,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 419,
+      "timestamp": "2025-11-22 15:10:36",
+      "speed": 162.7146865041765,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 410,
+      "timestamp": "2025-11-22 15:10:36",
+      "speed": 117.43981746683576,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 414,
+      "timestamp": "2025-11-22 15:10:36",
+      "speed": "N/A",
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 406,
+      "timestamp": "2025-11-22 15:10:37",
+      "speed": 97.85067360656988,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 432,
+      "timestamp": "2025-11-22 15:10:38",
+      "speed": 96.76511710980058,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 438,
+      "timestamp": "2025-11-22 15:10:38",
+      "speed": "N/A",
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 436,
+      "timestamp": "2025-11-22 15:10:38",
+      "speed": 95.35422940669125,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 434,
+      "timestamp": "2025-11-22 15:10:39",
+      "speed": 111.20727864456244,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 446,
+      "timestamp": "2025-11-22 15:10:39",
+      "speed": 119.82547862921234,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 449,
+      "timestamp": "2025-11-22 15:10:40",
+      "speed": 191.53880595548117,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 442,
+      "timestamp": "2025-11-22 15:10:40",
+      "speed": 93.83722931510921,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 448,
+      "timestamp": "2025-11-22 15:10:40",
+      "speed": 118.25162310421763,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 452,
+      "timestamp": "2025-11-22 15:10:40",
+      "speed": 109.69148304808027,
+      "latitude": 12.928798112102736,
+      "longitude": 77.55628604349944,
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    }
+  ],
+  "violations": [
+    {
+      "id": 234,
+      "speed": 212.3251407580456,
+      "time": "2025-11-22 15:10:18",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 233,
+      "speed": 107.97923675843543,
+      "time": "2025-11-22 15:10:18",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 237,
+      "speed": 100.29803338914529,
+      "time": "2025-11-22 15:10:19",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 247,
+      "speed": 104.77539001569586,
+      "time": "2025-11-22 15:10:19",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 235,
+      "speed": 108.81583438612594,
+      "time": "2025-11-22 15:10:19",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 245,
+      "speed": 103.2502251645961,
+      "time": "2025-11-22 15:10:19",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 249,
+      "speed": 104.60404829840584,
+      "time": "2025-11-22 15:10:20",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 251,
+      "speed": 109.30013280477694,
+      "time": "2025-11-22 15:10:20",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 258,
+      "speed": 102.43809844896982,
+      "time": "2025-11-22 15:10:21",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 260,
+      "speed": 103.25022516459612,
+      "time": "2025-11-22 15:10:22",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 265,
+      "speed": 117.14244722207397,
+      "time": "2025-11-22 15:10:22",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 267,
+      "speed": 198.87851658704082,
+      "time": "2025-11-22 15:10:22",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 261,
+      "speed": 105.80703203323323,
+      "time": "2025-11-22 15:10:22",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 256,
+      "speed": 101.90164197243436,
+      "time": "2025-11-22 15:10:22",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 271,
+      "speed": 115.05665822574643,
+      "time": "2025-11-22 15:10:23",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 270,
+      "speed": 106.41044775304462,
+      "time": "2025-11-22 15:10:23",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 262,
+      "speed": 104.93695586342481,
+      "time": "2025-11-22 15:10:23",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 277,
+      "speed": 502.6457336574228,
+      "time": "2025-11-22 15:10:23",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 273,
+      "speed": 103.86789586964568,
+      "time": "2025-11-22 15:10:24",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 283,
+      "speed": 172.81868411099214,
+      "time": "2025-11-22 15:10:24",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 288,
+      "speed": 100.8171401893023,
+      "time": "2025-11-22 15:10:24",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 287,
+      "speed": 102.59363180625417,
+      "time": "2025-11-22 15:10:24",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 294,
+      "speed": 242.74554151183878,
+      "time": "2025-11-22 15:10:25",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 268,
+      "speed": 102.94272267746345,
+      "time": "2025-11-22 15:10:25",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 295,
+      "speed": 132.65330623086396,
+      "time": "2025-11-22 15:10:25",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 296,
+      "speed": 198.4722270583345,
+      "time": "2025-11-22 15:10:25",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 301,
+      "speed": 144.86934813024394,
+      "time": "2025-11-22 15:10:25",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 290,
+      "speed": 100.27505425174459,
+      "time": "2025-11-22 15:10:26",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 305,
+      "speed": 140.34105763014452,
+      "time": "2025-11-22 15:10:26",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 304,
+      "speed": 144.86934813024394,
+      "time": "2025-11-22 15:10:26",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 279,
+      "speed": 101.84294849997991,
+      "time": "2025-11-22 15:10:26",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 307,
+      "speed": 117.14244722207474,
+      "time": "2025-11-22 15:10:26",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 306,
+      "speed": 101.2013758676663,
+      "time": "2025-11-22 15:10:26",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 309,
+      "speed": 100.44881979358372,
+      "time": "2025-11-22 15:10:26",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 302,
+      "speed": 104.77539001569559,
+      "time": "2025-11-22 15:10:27",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 308,
+      "speed": 102.98143750496129,
+      "time": "2025-11-22 15:10:27",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 319,
+      "speed": 938.6887121244486,
+      "time": "2025-11-22 15:10:27",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 318,
+      "speed": 371.0900803724967,
+      "time": "2025-11-22 15:10:27",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 322,
+      "speed": 115.05665822574643,
+      "time": "2025-11-22 15:10:27",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 321,
+      "speed": 102.43809844897018,
+      "time": "2025-11-22 15:10:27",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 317,
+      "speed": 105.3056293411431,
+      "time": "2025-11-22 15:10:28",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 327,
+      "speed": 102.43809844897017,
+      "time": "2025-11-22 15:10:28",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 335,
+      "speed": 763.728171356267,
+      "time": "2025-11-22 15:10:28",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 326,
+      "speed": 103.14581340766749,
+      "time": "2025-11-22 15:10:28",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 310,
+      "speed": 104.88843591698446,
+      "time": "2025-11-22 15:10:29",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 341,
+      "speed": 152.99908405994972,
+      "time": "2025-11-22 15:10:29",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 340,
+      "speed": 127.05882352941221,
+      "time": "2025-11-22 15:10:29",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 344,
+      "speed": 419.4865868413359,
+      "time": "2025-11-22 15:10:29",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 350,
+      "speed": 109.71476071943603,
+      "time": "2025-11-22 15:10:30",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 339,
+      "speed": 103.81991328480139,
+      "time": "2025-11-22 15:10:30",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 357,
+      "speed": 167.1197900353321,
+      "time": "2025-11-22 15:10:30",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 345,
+      "speed": 103.88348543783479,
+      "time": "2025-11-22 15:10:30",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 362,
+      "speed": 638.0832890281686,
+      "time": "2025-11-22 15:10:31",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 354,
+      "speed": 111.87734262301532,
+      "time": "2025-11-22 15:10:31",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 359,
+      "speed": 110.53315274012269,
+      "time": "2025-11-22 15:10:31",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 356,
+      "speed": 112.22530477188221,
+      "time": "2025-11-22 15:10:31",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 379,
+      "speed": 157.16308502354434,
+      "time": "2025-11-22 15:10:32",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 361,
+      "speed": 111.87734262301532,
+      "time": "2025-11-22 15:10:32",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 375,
+      "speed": 103.71662653670307,
+      "time": "2025-11-22 15:10:32",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 378,
+      "speed": 101.46061332045721,
+      "time": "2025-11-22 15:10:33",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 382,
+      "speed": 110.7349214898814,
+      "time": "2025-11-22 15:10:34",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 395,
+      "speed": 109.3001328047773,
+      "time": "2025-11-22 15:10:34",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 386,
+      "speed": 105.05085273761276,
+      "time": "2025-11-22 15:10:34",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 398,
+      "speed": 152.99908405994972,
+      "time": "2025-11-22 15:10:34",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 391,
+      "speed": 107.4463316584201,
+      "time": "2025-11-22 15:10:34",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 399,
+      "speed": 113.64486662116617,
+      "time": "2025-11-22 15:10:34",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 403,
+      "speed": 125.1384285404686,
+      "time": "2025-11-22 15:10:35",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 390,
+      "speed": 105.81645007873956,
+      "time": "2025-11-22 15:10:35",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 404,
+      "speed": 998.0387688276704,
+      "time": "2025-11-22 15:10:35",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 405,
+      "speed": 117.14244722207474,
+      "time": "2025-11-22 15:10:35",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 396,
+      "speed": 101.64705882352978,
+      "time": "2025-11-22 15:10:35",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 409,
+      "speed": 117.14244722207474,
+      "time": "2025-11-22 15:10:35",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 418,
+      "speed": 519.0784487783721,
+      "time": "2025-11-22 15:10:36",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 410,
+      "speed": 100.17220466893681,
+      "time": "2025-11-22 15:10:36",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 419,
+      "speed": 162.7146865041765,
+      "time": "2025-11-22 15:10:36",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 414,
+      "speed": 200.89763958716833,
+      "time": "2025-11-22 15:10:36",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 406,
+      "speed": 107.88690733859437,
+      "time": "2025-11-22 15:10:37",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 432,
+      "speed": 122.49042049967402,
+      "time": "2025-11-22 15:10:38",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 438,
+      "speed": 188.88652055416523,
+      "time": "2025-11-22 15:10:38",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 436,
+      "speed": 106.71671259650378,
+      "time": "2025-11-22 15:10:38",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 445,
+      "speed": 720.7719045636478,
+      "time": "2025-11-22 15:10:39",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 434,
+      "speed": 111.20727864456244,
+      "time": "2025-11-22 15:10:39",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 446,
+      "speed": 101.75867034125127,
+      "time": "2025-11-22 15:10:39",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 449,
+      "speed": 165.66443759103262,
+      "time": "2025-11-22 15:10:39",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 442,
+      "speed": 100.83004989554351,
+      "time": "2025-11-22 15:10:40",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 448,
+      "speed": 106.54849278558022,
+      "time": "2025-11-22 15:10:40",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    },
+    {
+      "id": 452,
+      "speed": 109.69148304808027,
+      "time": "2025-11-22 15:10:40",
+      "location": "Banashankari, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0ca8\u0c97\u0cb0 \u0ca8\u0cbf\u0c97\u0cae, Bengaluru, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3, \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0, Karnataka, 560085, India"
+    }
+  ]
+}

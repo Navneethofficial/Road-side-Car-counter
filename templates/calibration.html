@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speed Calibration Tool</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container { max-width: 1200px; margin: 0 auto; }
+        
+        header { text-align: center; color: white; margin-bottom: 20px; }
+        h1 { font-size: 2.5em; margin-bottom: 10px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); }
+        
+        .nav-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .nav-btn {
+            background: white;
+            color: #667eea;
+            border: none;
+            padding: 12px 30px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1em;
+            font-weight: 600;
+            transition: all 0.3s;
+            text-decoration: none;
+            display: inline-block;
+        }
+        
+        .nav-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        }
+        
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            margin-bottom: 20px;
+        }
+        
+        .card h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 1.5em;
+        }
+        
+        .instruction-box {
+            background: #e3f2fd;
+            border-left: 4px solid #2196f3;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        
+        .instruction-box h3 {
+            color: #1976d2;
+            margin-bottom: 10px;
+        }
+        
+        .instruction-box ol {
+            margin-left: 20px;
+            line-height: 1.8;
+        }
+        
+        .upload-zone {
+            border: 3px dashed #667eea;
+            border-radius: 10px;
+            padding: 40px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s;
+            background: #f8f9ff;
+            margin-bottom: 20px;
+        }
+        
+        .upload-zone:hover {
+            border-color: #764ba2;
+            background: #f0f2ff;
+        }
+        
+        .upload-icon {
+            font-size: 3em;
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+        
+        input[type="file"] { display: none; }
+        
+        #canvas-container {
+            position: relative;
+            display: inline-block;
+            margin: 20px auto;
+            display: none;
+        }
+        
+        canvas {
+            border: 3px solid #667eea;
+            border-radius: 10px;
+            cursor: crosshair;
+            max-width: 100%;
+            height: auto;
+        }
+        
+        .point {
+            position: absolute;
+            width: 12px;
+            height: 12px;
+            background: #f44336;
+            border: 2px solid white;
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+        }
+        
+        .line {
+            position: absolute;
+            height: 3px;
+            background: #4caf50;
+            transform-origin: left center;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+        }
+        
+        .measurement-info {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+            display: none;
+        }
+        
+        .measurement-info h3 {
+            color: #856404;
+            margin-bottom: 10px;
+        }
+        
+        .result-box {
+            background: #d4edda;
+            border: 2px solid #28a745;
+            padding: 25px;
+            border-radius: 10px;
+            margin: 20px 0;
+            text-align: center;
+            display: none;
+        }
+        
+        .result-box h3 {
+            color: #155724;
+            font-size: 1.5em;
+            margin-bottom: 15px;
+        }
+        
+        .result-value {
+            font-size: 3em;
+            font-weight: bold;
+            color: #28a745;
+            margin: 20px 0;
+        }
+        
+        .btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: transform 0.2s;
+            margin: 10px 5px;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        
+        .btn-secondary {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        }
+        
+        .input-group {
+            margin: 20px 0;
+        }
+        
+        .input-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+        }
+        
+        .input-group input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 1em;
+        }
+        
+        .tips-box {
+            background: #f3e5f5;
+            border-left: 4px solid #9c27b0;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        
+        .tips-box h4 {
+            color: #7b1fa2;
+            margin-bottom: 10px;
+        }
+        
+        .tips-box ul {
+            margin-left: 20px;
+            line-height: 1.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎯 Speed Calibration Tool</h1>
+            <p style="color: white; opacity: 0.9;">Calculate Accurate Pixels per Meter</p>
+        </header>
+
+        <div class="nav-buttons">
+            <a href="/" class="nav-btn">🏠 Home</a>
+            <a href="/calibration" class="nav-btn">🎯 Calibration Tool</a>
+            <a href="/analytics" class="nav-btn">📊 Analytics Dashboard</a>
+        </div>
+
+        <div class="card">
+            <h2>📐 Calibration Instructions</h2>
+            
+            <div class="instruction-box">
+                <h3>📝 How to Calibrate:</h3>
+                <ol>
+                    <li><strong>Upload your video</strong> (the one you want to process)</li>
+                    <li><strong>Click two points</strong> on a known distance (e.g., lane marking, vehicle length)</li>
+                    <li><strong>Enter the real distance</strong> in meters</li>
+                    <li><strong>Get your calibration value</strong> - use this in the main interface!</li>
+                </ol>
+            </div>
+
+            <div class="upload-zone" id="upload-zone">
+                <div class="upload-icon">🎬</div>
+                <p style="font-size: 1.2em; font-weight: bold;">Upload Video for Calibration</p>
+                <p style="color: #666; margin-top: 10px;">Click to select or drag & drop your video file</p>
+            </div>
+            <input type="file" id="video-input" accept="video/*">
+
+            <div id="canvas-container">
+                <canvas id="calibration-canvas"></canvas>
+            </div>
+
+            <div id="measurement-info" class="measurement-info">
+                <h3>📏 Measurement</h3>
+                <p><strong>Distance in pixels:</strong> <span id="pixel-distance">0</span> px</p>
+                <p style="margin-top: 10px;"><strong>Click two points on a known distance</strong></p>
+            </div>
+
+            <div id="input-section" style="display: none;">
+                <div class="input-group">
+                    <label for="real-distance">Enter Real Distance (in meters):</label>
+                    <input type="number" id="real-distance" step="0.1" min="0.1" placeholder="e.g., 3.5 for lane width">
+                </div>
+                <div style="text-align: center;">
+                    <button class="btn" id="calculate-btn">🔢 Calculate</button>
+                    <button class="btn btn-secondary" id="reset-btn">🔄 Reset</button>
+                </div>
+            </div>
+
+            <div id="result-box" class="result-box">
+                <h3>✅ Calibration Result</h3>
+                <p>Your <strong>Pixels per Meter</strong> value is:</p>
+                <div class="result-value" id="result-value">0.00</div>
+                <p style="color: #155724; font-size: 1.1em;">
+                    <strong>Copy this value and use it in the main interface!</strong>
+                </p>
+                <button class="btn" id="use-value-btn">📋 Copy Value</button>
+            </div>
+
+            <div class="tips-box">
+                <h4>💡 Calibration Tips:</h4>
+                <ul>
+                    <li><strong>Lane Width:</strong> Standard lane = 3.5 meters</li>
+                    <li><strong>Road Markings:</strong> Dashed line segment = 3 meters</li>
+                    <li><strong>Vehicle Length:</strong> Car ≈ 4.5m, Truck ≈ 8m</li>
+                    <li><strong>For Best Results:</strong> Choose a horizontal or vertical distance</li>
+                    <li><strong>Zoom In:</strong> Make sure your video is clear and focused</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let canvas, ctx;
+        let points = [];
+        let videoFrame = null;
+        let pixelDistance = 0;
+
+        const uploadZone = document.getElementById('upload-zone');
+        const videoInput = document.getElementById('video-input');
+        const canvasContainer = document.getElementById('canvas-container');
+        const measurementInfo = document.getElementById('measurement-info');
+        const inputSection = document.getElementById('input-section');
+        const resultBox = document.getElementById('result-box');
+
+        uploadZone.addEventListener('click', () => videoInput.click());
+        uploadZone.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            uploadZone.style.borderColor = '#764ba2';
+        });
+        uploadZone.addEventListener('dragleave', () => {
+            uploadZone.style.borderColor = '#667eea';
+        });
+        uploadZone.addEventListener('drop', (e) => {
+            e.preventDefault();
+            uploadZone.style.borderColor = '#667eea';
+            const file = e.dataTransfer.files[0];
+            if (file && file.type.startsWith('video/')) {
+                handleVideoUpload(file);
+            }
+        });
+
+        videoInput.addEventListener('change', (e) => {
+            const file = e.target.files[0];
+            if (file) {
+                handleVideoUpload(file);
+            }
+        });
+
+        async function handleVideoUpload(file) {
+            const formData = new FormData();
+            formData.append('video', file);
+
+            try {
+                uploadZone.innerHTML = '<div class="upload-icon">⏳</div><p>Loading video frame...</p>';
+                
+                const response = await fetch('/upload_calibration_frame', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const result = await response.json();
+
+                if (result.success) {
+                    loadImage(result.frame_path);
+                } else {
+                    alert('Error loading video frame');
+                }
+            } catch (error) {
+                alert('Error: ' + error.message);
+                uploadZone.innerHTML = '<div class="upload-icon">❌</div><p>Error loading video. Please try again.</p>';
+            }
+        }
+
+        function loadImage(imagePath) {
+            const img = new Image();
+            img.onload = function() {
+                canvas = document.getElementById('calibration-canvas');
+                ctx = canvas.getContext('2d');
+                
+                // Set canvas size to image size
+                canvas.width = img.width;
+                canvas.height = img.height;
+                
+                // Draw image
+                ctx.drawImage(img, 0, 0);
+                
+                canvasContainer.style.display = 'block';
+                measurementInfo.style.display = 'block';
+                uploadZone.style.display = 'none';
+                
+                // Add click handler
+                canvas.addEventListener('click', handleCanvasClick);
+            };
+            img.src = imagePath + '?t=' + Date.now();
+        }
+
+        function handleCanvasClick(e) {
+            const rect = canvas.getBoundingClientRect();
+            const scaleX = canvas.width / rect.width;
+            const scaleY = canvas.height / rect.height;
+            const x = (e.clientX - rect.left) * scaleX;
+            const y = (e.clientY - rect.top) * scaleY;
+
+            points.push({x, y});
+
+            // Draw point
+            ctx.fillStyle = '#f44336';
+            ctx.beginPath();
+            ctx.arc(x, y, 5, 0, Math.PI * 2);
+            ctx.fill();
+            ctx.strokeStyle = 'white';
+            ctx.lineWidth = 2;
+            ctx.stroke();
+
+            if (points.length === 2) {
+                // Draw line
+                ctx.strokeStyle = '#4caf50';
+                ctx.lineWidth = 3;
+                ctx.beginPath();
+                ctx.moveTo(points[0].x, points[0].y);
+                ctx.lineTo(points[1].x, points[1].y);
+                ctx.stroke();
+
+                // Calculate distance
+                const dx = points[1].x - points[0].x;
+                const dy = points[1].y - points[0].y;
+                pixelDistance = Math.sqrt(dx * dx + dy * dy);
+
+                document.getElementById('pixel-distance').textContent = pixelDistance.toFixed(1);
+                inputSection.style.display = 'block';
+                measurementInfo.querySelector('p:last-child').innerHTML = '<strong style="color: #4caf50;">✓ Two points marked!</strong>';
+            }
+
+            if (points.length > 2) {
+                resetCanvas();
+            }
+        }
+
+        document.getElementById('calculate-btn').addEventListener('click', () => {
+            const realDistance = parseFloat(document.getElementById('real-distance').value);
+            
+            if (!realDistance || realDistance <= 0) {
+                alert('Please enter a valid distance in meters');
+                return;
+            }
+
+            const pixelsPerMeter = pixelDistance / realDistance;
+            
+            document.getElementById('result-value').textContent = pixelsPerMeter.toFixed(2);
+            resultBox.style.display = 'block';
+            
+            // Store in localStorage for easy access
+            localStorage.setItem('calibration_value', pixelsPerMeter.toFixed(2));
+        });
+
+        document.getElementById('reset-btn').addEventListener('click', resetCanvas);
+
+        document.getElementById('use-value-btn').addEventListener('click', () => {
+            const value = document.getElementById('result-value').textContent;
+            navigator.clipboard.writeText(value).then(() => {
+                alert('✅ Value copied to clipboard: ' + value + '\n\nPaste this in the main interface!');
+            });
+        });
+
+        function resetCanvas() {
+            points = [];
+            pixelDistance = 0;
+            
+            // Redraw image
+            const img = new Image();
+            img.onload = function() {
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                ctx.drawImage(img, 0, 0);
+            };
+            img.src = canvas.toDataURL();
+            
+            document.getElementById('pixel-distance').textContent = '0';
+            inputSection.style.display = 'none';
+            resultBox.style.display = 'none';
+            measurementInfo.querySelector('p:last-child').innerHTML = '<strong>Click two points on a known distance</strong>';
+        }
+    </script>
+</body>
+</html>
