@@ -164,17 +164,6 @@ Here’s a quick look at the system in action 👇
 
 ### 1. Click-on-Map GPS Selection
 
-**Before (Manual Entry):**
-```
-❌ Copy coordinates from Google Maps
-❌ Paste latitude: 12.9716
-❌ Paste longitude: 77.5946
-❌ Type location name
-❌ Click "Set GPS" button
-```
-
-**Now (Click on Map):**
-```
 ✅ Click on map → Done!
    - Marker appears
    - Location detected automatically
